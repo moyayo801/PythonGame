@@ -1,5 +1,4 @@
 # PythonGame
-My First Python Game
 
 A Simple First game Falling Stars!
 
